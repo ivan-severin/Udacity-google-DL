@@ -5,7 +5,7 @@
 1_not_mnist/notMNIST.pickle
 1_not_mnist/notMNIST_small
 1_not_mnist/notMNIST_small.tar.gz
-    
+data/    
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
